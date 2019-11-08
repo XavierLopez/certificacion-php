@@ -196,8 +196,7 @@ Los métodos de los que dispone ArrayObject son los siguientes:
 * 4 -> offsetUnset
 * 5 -> append
 * 6 -> getArrayCopy
-* 7 -> 
-
+* 7 -> count
 * 8 -> getFlags
 * 9 -> setFlags
 * 10 -> asort
