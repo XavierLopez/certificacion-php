@@ -196,7 +196,8 @@ Los métodos de los que dispone ArrayObject son los siguientes:
 * 4 -> offsetUnset
 * 5 -> append
 * 6 -> getArrayCopy
-* 7 -> count
+* 7 -> 
+
 * 8 -> getFlags
 * 9 -> setFlags
 * 10 -> asort
@@ -250,7 +251,7 @@ Al ordenar los resultados con _natcasesort()_ podemos ver que el resultado ha or
 
 ```
 
-Podemos emplear la función _count()_ para contar el número de items:
+Podemos emplear el método _count()_ para contar el número de items:
 
 ```
 $animales = array('perro', 'gato', 'conejo', 'serpiente', 'caballo');
